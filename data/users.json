@@ -1,0 +1,947 @@
+[
+  {
+    "id": "fit_1790589518464_t8r8f",
+    "name": "Jordan Lee",
+    "age": 28,
+    "gender": "Male",
+    "height": 180,
+    "weight": 78,
+    "goal": "Muscle Gain",
+    "activity": "Moderate",
+    "workout_preference": "Dumbbells and Bodyweight",
+    "dietary_preference": "High protein",
+    "available_time": "45 mins",
+    "plan": {
+      "summary": "Hello Jordan Lee! Welcome to your FitBuddy personalized fitness roadmap. Designed specifically for a 28-year-old with a goal of Muscle Gain and a moderate current activity level, this program emphasizes sustainable progress, progressive overload, and wholesome nutrition tailored to 45 mins sessions focusing on Dumbbells and Bodyweight.",
+      "targetBmi": {
+        "bmi": 24.1,
+        "category": "Normal weight",
+        "advice": "Maintain a balanced diet and regular physical activity."
+      },
+      "workoutPlan": {
+        "warmUp": [
+          "5 minutes of brisk walking, light jogging in place, or jumping jacks to raise heart rate",
+          "Dynamic arm circles, shoulder rolls, and torso twists (10-12 reps each direction)",
+          "Leg swings (front-to-back and side-to-side) and bodyweight air squats (10 reps)",
+          "Hip openers (cat-cow stretch and inchworms with a brief pause at plank)"
+        ],
+        "mainWorkout": [
+          {
+            "exercise": "Barbell or Dumbbell Squats",
+            "sets": "3-4 sets",
+            "reps": "8-10 reps",
+            "notes": "Keep chest proud, core braced, and drive through mid-foot."
+          },
+          {
+            "exercise": "Push-Ups (standard or knee-supported)",
+            "sets": "3 sets",
+            "reps": "8-12 reps",
+            "notes": "Maintain a straight line from neck to heels, elbows at a 45-degree angle."
+          },
+          {
+            "exercise": "Dumbbell Rows or Inverted Table Rows",
+            "sets": "3 sets",
+            "reps": "10-12 reps per side",
+            "notes": "Squeeze shoulder blades at top of movement without shrugging."
+          },
+          {
+            "exercise": "Romanian Deadlifts (Dumbbell/Kettlebell)",
+            "sets": "3 sets",
+            "reps": "10 reps each leg",
+            "notes": "Control the eccentric (lowering) phase for maximum muscular activation."
+          },
+          {
+            "exercise": "Plank Hold & Deadbug alternating core routine",
+            "sets": "3 sets",
+            "reps": "30-45 seconds hold / 12 deadbugs",
+            "notes": "Press lower back firmly into the floor during deadbugs; keep core rigid during plank."
+          }
+        ],
+        "coolDown": [
+          "3-5 minutes of slow walking to safely lower resting heart rate",
+          "Standing quad stretch (hold 25-30 seconds each leg)",
+          "Hamstring forward fold stretch (hold 30 seconds with soft knees)",
+          "Chest doorway stretch and child pose deep belly breathing (1-2 minutes)"
+        ],
+        "recommendedFrequency": "4 days per week (e.g., Upper/Lower split)"
+      },
+      "nutritionGuidance": {
+        "overview": "A nutrition strategy aligned with High protein, focusing on nutrient-dense whole foods, sufficient hydration, and appropriate caloric intake for muscle gain.",
+        "proteinSources": [
+          "Lean poultry (chicken breast, turkey)",
+          "Eggs and egg whites",
+          "Greek yogurt or low-fat cottage cheese",
+          "Tofu, tempeh, lentils, chickpeas, and edamame (plant-based staples)",
+          "Wild-caught fish (salmon, tuna, cod) or clean whey/pea protein powder"
+        ],
+        "fruitsVegetables": [
+          "Dark leafy greens (spinach, kale, arugula)",
+          "Cruciferous vegetables (broccoli, cauliflower, Brussels sprouts)",
+          "Antioxidant-rich berries (blueberries, strawberries, raspberries)",
+          "Complex carbs: sweet potatoes, oats, quinoa, and brown rice",
+          "Apples, bananas, and citrus fruits for natural electrolytes"
+        ],
+        "hydrationTips": "Aim for 2.5 to 3.5 liters of clean water daily. Drink 500ml upon waking, and sip consistently before, during, and after your 45 mins workouts.",
+        "mealSuggestions": [
+          {
+            "meal": "Breakfast",
+            "items": "Steel-cut oatmeal topped with mixed berries, a scoop of protein or Greek yogurt, and a sprinkle of chia seeds",
+            "notes": "Provides sustained complex carbohydrates and fast-absorbing morning protein."
+          },
+          {
+            "meal": "Lunch",
+            "items": "Grilled chicken or marinated baked tofu bowl with quinoa, avocado slices, and mixed steamed vegetables",
+            "notes": "Balanced in healthy fats, amino acids, and micronutrients to prevent mid-day slumps."
+          },
+          {
+            "meal": "Dinner",
+            "items": "Pan-seared salmon or hearty lentil stew paired with roasted sweet potatoes and asparagus",
+            "notes": "Omega-3 fatty acids and zinc to support nighttime tissue repair and muscle recovery."
+          },
+          {
+            "meal": "Healthy Snack",
+            "items": "Handful of raw almonds with an apple, or carrot sticks with hummus",
+            "notes": "Quick, high-fiber, low-glycemic satiety booster between meals."
+          }
+        ]
+      },
+      "dailyActivities": [
+        "Reach an achievable daily target of 7,500 to 10,000 steps through casual walking",
+        "Take 5-minute movement or standing breaks every hour of sedentary desk work",
+        "Perform morning neck and spine mobility stretches for 5 minutes",
+        "Practice 5 minutes of mindful box breathing before bedtime to lower cortisol levels"
+      ],
+      "weeklySchedule": [
+        {
+          "day": "Monday",
+          "focus": "Full Body Strength & Core",
+          "activities": "Main resistance workout focusing on compound pushes and pulls",
+          "duration": "45 mins"
+        },
+        {
+          "day": "Tuesday",
+          "focus": "Low-Impact Cardio & Mobility",
+          "activities": "30-minute brisk outdoor walk, cycling, or yoga flow",
+          "duration": "30-40 mins"
+        },
+        {
+          "day": "Wednesday",
+          "focus": "Lower Body & Core Stability",
+          "activities": "Squat and hinge variations, lunges, and plank variations",
+          "duration": "45 mins"
+        },
+        {
+          "day": "Thursday",
+          "focus": "Active Recovery",
+          "activities": "Light leisure walk, gentle stretching, and foam rolling",
+          "duration": "20-30 mins"
+        },
+        {
+          "day": "Friday",
+          "focus": "Upper Body & Conditioning",
+          "activities": "Push-ups, rows, shoulder presses, and interval bursts",
+          "duration": "45 mins"
+        },
+        {
+          "day": "Saturday",
+          "focus": "Recreational Activity / Cardio",
+          "activities": "Hiking, swimming, playing a sport, or long nature walk",
+          "duration": "45-60 mins"
+        },
+        {
+          "day": "Sunday",
+          "focus": "Rest & Meal Prep Day",
+          "activities": "Complete physical rest, hydration check, and grocery prep for the week ahead",
+          "duration": "Rest"
+        }
+      ],
+      "fitnessTips": [
+        "Consistency outperforms intensity: Showing up 4 times every week is 10x more effective than one exhausting day.",
+        "Prioritize 7-8 hours of quality sleep; human growth hormone and muscle synthesis peak during deep sleep.",
+        "Track your weights and repetitions in a simple notebook to apply progressive overload safely.",
+        "Listen to your body: Persistent sharp pain is a warning signal to rest or modify the movement."
+      ],
+      "progressTracking": [
+        {
+          "metric": "Body Weight",
+          "method": "Weigh in once a week in the morning after waking and using the restroom",
+          "frequency": "Weekly"
+        },
+        {
+          "metric": "Progress Photos",
+          "method": "Take consistent front/side photos in identical lighting and posture",
+          "frequency": "Every 2-4 weeks"
+        },
+        {
+          "metric": "Workout Logbook",
+          "method": "Record weights lifted, reps completed, and perceived difficulty",
+          "frequency": "Every workout"
+        },
+        {
+          "metric": "Energy & Sleep Quality",
+          "method": "Rate your morning energy and overall mood on a scale of 1-10",
+          "frequency": "Daily"
+        }
+      ],
+      "disclaimer": "This AI-generated plan is for general fitness and educational purposes only. It is not medical advice. Consult a qualified healthcare professional before starting a new exercise or nutrition program, especially if you have a medical condition."
+    },
+    "created_at": "2026-09-28T09:58:38.464Z",
+    "is_demo": false
+  },
+  {
+    "id": "demo-sarah-101",
+    "name": "Sarah Jenkins",
+    "age": 27,
+    "gender": "Female",
+    "height": 168,
+    "weight": 64,
+    "goal": "Weight Loss",
+    "activity": "Moderate",
+    "workout_preference": "Home Dumbbell & HIIT",
+    "dietary_preference": "Mediterranean & High Fiber",
+    "available_time": "45 mins",
+    "plan": {
+      "summary": "Hello Sarah Jenkins! Welcome to your FitBuddy personalized fitness roadmap. Designed specifically for a 27-year-old with a goal of Weight Loss and a moderate current activity level, this program emphasizes sustainable progress, progressive overload, and wholesome nutrition tailored to 45 mins sessions focusing on Home Dumbbell & HIIT.",
+      "targetBmi": {
+        "bmi": 22.7,
+        "category": "Normal weight",
+        "advice": "Maintain a balanced diet and regular physical activity."
+      },
+      "workoutPlan": {
+        "warmUp": [
+          "5 minutes of brisk walking, light jogging in place, or jumping jacks to raise heart rate",
+          "Dynamic arm circles, shoulder rolls, and torso twists (10-12 reps each direction)",
+          "Leg swings (front-to-back and side-to-side) and bodyweight air squats (10 reps)",
+          "Hip openers (cat-cow stretch and inchworms with a brief pause at plank)"
+        ],
+        "mainWorkout": [
+          {
+            "exercise": "Goblet Squats or Bodyweight Squats",
+            "sets": "3-4 sets",
+            "reps": "12-15 reps",
+            "notes": "Keep chest proud, core braced, and drive through mid-foot."
+          },
+          {
+            "exercise": "Push-Ups (standard or knee-supported)",
+            "sets": "3 sets",
+            "reps": "10-15 reps",
+            "notes": "Maintain a straight line from neck to heels, elbows at a 45-degree angle."
+          },
+          {
+            "exercise": "Dumbbell Rows or Inverted Table Rows",
+            "sets": "3 sets",
+            "reps": "10-12 reps per side",
+            "notes": "Squeeze shoulder blades at top of movement without shrugging."
+          },
+          {
+            "exercise": "Dumbbell Walking Lunges or Step-Ups",
+            "sets": "3 sets",
+            "reps": "10 reps each leg",
+            "notes": "Control the eccentric (lowering) phase for maximum muscular activation."
+          },
+          {
+            "exercise": "Plank Hold & Deadbug alternating core routine",
+            "sets": "3 sets",
+            "reps": "30-45 seconds hold / 12 deadbugs",
+            "notes": "Press lower back firmly into the floor during deadbugs; keep core rigid during plank."
+          }
+        ],
+        "coolDown": [
+          "3-5 minutes of slow walking to safely lower resting heart rate",
+          "Standing quad stretch (hold 25-30 seconds each leg)",
+          "Hamstring forward fold stretch (hold 30 seconds with soft knees)",
+          "Chest doorway stretch and child pose deep belly breathing (1-2 minutes)"
+        ],
+        "recommendedFrequency": "4-5 days per week with active recovery"
+      },
+      "nutritionGuidance": {
+        "overview": "A nutrition strategy aligned with Mediterranean & High Fiber, focusing on nutrient-dense whole foods, sufficient hydration, and appropriate caloric intake for weight loss.",
+        "proteinSources": [
+          "Lean poultry (chicken breast, turkey)",
+          "Eggs and egg whites",
+          "Greek yogurt or low-fat cottage cheese",
+          "Tofu, tempeh, lentils, chickpeas, and edamame (plant-based staples)",
+          "Wild-caught fish (salmon, tuna, cod) or clean whey/pea protein powder"
+        ],
+        "fruitsVegetables": [
+          "Dark leafy greens (spinach, kale, arugula)",
+          "Cruciferous vegetables (broccoli, cauliflower, Brussels sprouts)",
+          "Antioxidant-rich berries (blueberries, strawberries, raspberries)",
+          "Complex carbs: sweet potatoes, oats, quinoa, and brown rice",
+          "Apples, bananas, and citrus fruits for natural electrolytes"
+        ],
+        "hydrationTips": "Aim for 2.5 to 3.5 liters of clean water daily. Drink 500ml upon waking, and sip consistently before, during, and after your 45 mins workouts.",
+        "mealSuggestions": [
+          {
+            "meal": "Breakfast",
+            "items": "Steel-cut oatmeal topped with mixed berries, a scoop of protein or Greek yogurt, and a sprinkle of chia seeds",
+            "notes": "Provides sustained complex carbohydrates and fast-absorbing morning protein."
+          },
+          {
+            "meal": "Lunch",
+            "items": "Grilled chicken or marinated baked tofu bowl with quinoa, avocado slices, and mixed steamed vegetables",
+            "notes": "Balanced in healthy fats, amino acids, and micronutrients to prevent mid-day slumps."
+          },
+          {
+            "meal": "Dinner",
+            "items": "Pan-seared salmon or hearty lentil stew paired with roasted sweet potatoes and asparagus",
+            "notes": "Omega-3 fatty acids and zinc to support nighttime tissue repair and muscle recovery."
+          },
+          {
+            "meal": "Healthy Snack",
+            "items": "Handful of raw almonds with an apple, or carrot sticks with hummus",
+            "notes": "Quick, high-fiber, low-glycemic satiety booster between meals."
+          }
+        ]
+      },
+      "dailyActivities": [
+        "Reach an achievable daily target of 7,500 to 10,000 steps through casual walking",
+        "Take 5-minute movement or standing breaks every hour of sedentary desk work",
+        "Perform morning neck and spine mobility stretches for 5 minutes",
+        "Practice 5 minutes of mindful box breathing before bedtime to lower cortisol levels"
+      ],
+      "weeklySchedule": [
+        {
+          "day": "Monday",
+          "focus": "Full Body Strength & Core",
+          "activities": "Main resistance workout focusing on compound pushes and pulls",
+          "duration": "45 mins"
+        },
+        {
+          "day": "Tuesday",
+          "focus": "Low-Impact Cardio & Mobility",
+          "activities": "30-minute brisk outdoor walk, cycling, or yoga flow",
+          "duration": "30-40 mins"
+        },
+        {
+          "day": "Wednesday",
+          "focus": "Lower Body & Core Stability",
+          "activities": "Squat and hinge variations, lunges, and plank variations",
+          "duration": "45 mins"
+        },
+        {
+          "day": "Thursday",
+          "focus": "Active Recovery",
+          "activities": "Light leisure walk, gentle stretching, and foam rolling",
+          "duration": "20-30 mins"
+        },
+        {
+          "day": "Friday",
+          "focus": "Upper Body & Conditioning",
+          "activities": "Push-ups, rows, shoulder presses, and interval bursts",
+          "duration": "45 mins"
+        },
+        {
+          "day": "Saturday",
+          "focus": "Recreational Activity / Cardio",
+          "activities": "Hiking, swimming, playing a sport, or long nature walk",
+          "duration": "45-60 mins"
+        },
+        {
+          "day": "Sunday",
+          "focus": "Rest & Meal Prep Day",
+          "activities": "Complete physical rest, hydration check, and grocery prep for the week ahead",
+          "duration": "Rest"
+        }
+      ],
+      "fitnessTips": [
+        "Consistency outperforms intensity: Showing up 4 times every week is 10x more effective than one exhausting day.",
+        "Prioritize 7-8 hours of quality sleep; human growth hormone and muscle synthesis peak during deep sleep.",
+        "Track your weights and repetitions in a simple notebook to apply progressive overload safely.",
+        "Listen to your body: Persistent sharp pain is a warning signal to rest or modify the movement."
+      ],
+      "progressTracking": [
+        {
+          "metric": "Body Weight",
+          "method": "Weigh in once a week in the morning after waking and using the restroom",
+          "frequency": "Weekly"
+        },
+        {
+          "metric": "Progress Photos",
+          "method": "Take consistent front/side photos in identical lighting and posture",
+          "frequency": "Every 2-4 weeks"
+        },
+        {
+          "metric": "Workout Logbook",
+          "method": "Record weights lifted, reps completed, and perceived difficulty",
+          "frequency": "Every workout"
+        },
+        {
+          "metric": "Energy & Sleep Quality",
+          "method": "Rate your morning energy and overall mood on a scale of 1-10",
+          "frequency": "Daily"
+        }
+      ],
+      "disclaimer": "This AI-generated plan is for general fitness and educational purposes only. It is not medical advice. Consult a qualified healthcare professional before starting a new exercise or nutrition program, especially if you have a medical condition."
+    },
+    "created_at": "2026-09-27T09:58:06.395Z",
+    "is_demo": true
+  },
+  {
+    "id": "demo-marcus-102",
+    "name": "Marcus Chen",
+    "age": 23,
+    "gender": "Male",
+    "height": 182,
+    "weight": 74,
+    "goal": "Muscle Gain",
+    "activity": "High",
+    "workout_preference": "Gym Free Weights & Calisthenics",
+    "dietary_preference": "High Protein (160g+)",
+    "available_time": "60 mins",
+    "plan": {
+      "summary": "Hello Marcus Chen! Welcome to your FitBuddy personalized fitness roadmap. Designed specifically for a 23-year-old with a goal of Muscle Gain and a high current activity level, this program emphasizes sustainable progress, progressive overload, and wholesome nutrition tailored to 60 mins sessions focusing on Gym Free Weights & Calisthenics.",
+      "targetBmi": {
+        "bmi": 22.3,
+        "category": "Normal weight",
+        "advice": "Maintain a balanced diet and regular physical activity."
+      },
+      "workoutPlan": {
+        "warmUp": [
+          "5 minutes of brisk walking, light jogging in place, or jumping jacks to raise heart rate",
+          "Dynamic arm circles, shoulder rolls, and torso twists (10-12 reps each direction)",
+          "Leg swings (front-to-back and side-to-side) and bodyweight air squats (10 reps)",
+          "Hip openers (cat-cow stretch and inchworms with a brief pause at plank)"
+        ],
+        "mainWorkout": [
+          {
+            "exercise": "Barbell or Dumbbell Squats",
+            "sets": "3-4 sets",
+            "reps": "8-10 reps",
+            "notes": "Keep chest proud, core braced, and drive through mid-foot."
+          },
+          {
+            "exercise": "Push-Ups (standard or knee-supported)",
+            "sets": "3 sets",
+            "reps": "8-12 reps",
+            "notes": "Maintain a straight line from neck to heels, elbows at a 45-degree angle."
+          },
+          {
+            "exercise": "Dumbbell Rows or Inverted Table Rows",
+            "sets": "3 sets",
+            "reps": "10-12 reps per side",
+            "notes": "Squeeze shoulder blades at top of movement without shrugging."
+          },
+          {
+            "exercise": "Romanian Deadlifts (Dumbbell/Kettlebell)",
+            "sets": "3 sets",
+            "reps": "10 reps each leg",
+            "notes": "Control the eccentric (lowering) phase for maximum muscular activation."
+          },
+          {
+            "exercise": "Plank Hold & Deadbug alternating core routine",
+            "sets": "3 sets",
+            "reps": "30-45 seconds hold / 12 deadbugs",
+            "notes": "Press lower back firmly into the floor during deadbugs; keep core rigid during plank."
+          }
+        ],
+        "coolDown": [
+          "3-5 minutes of slow walking to safely lower resting heart rate",
+          "Standing quad stretch (hold 25-30 seconds each leg)",
+          "Hamstring forward fold stretch (hold 30 seconds with soft knees)",
+          "Chest doorway stretch and child pose deep belly breathing (1-2 minutes)"
+        ],
+        "recommendedFrequency": "4 days per week (e.g., Upper/Lower split)"
+      },
+      "nutritionGuidance": {
+        "overview": "A nutrition strategy aligned with High Protein (160g+), focusing on nutrient-dense whole foods, sufficient hydration, and appropriate caloric intake for muscle gain.",
+        "proteinSources": [
+          "Lean poultry (chicken breast, turkey)",
+          "Eggs and egg whites",
+          "Greek yogurt or low-fat cottage cheese",
+          "Tofu, tempeh, lentils, chickpeas, and edamame (plant-based staples)",
+          "Wild-caught fish (salmon, tuna, cod) or clean whey/pea protein powder"
+        ],
+        "fruitsVegetables": [
+          "Dark leafy greens (spinach, kale, arugula)",
+          "Cruciferous vegetables (broccoli, cauliflower, Brussels sprouts)",
+          "Antioxidant-rich berries (blueberries, strawberries, raspberries)",
+          "Complex carbs: sweet potatoes, oats, quinoa, and brown rice",
+          "Apples, bananas, and citrus fruits for natural electrolytes"
+        ],
+        "hydrationTips": "Aim for 2.5 to 3.5 liters of clean water daily. Drink 500ml upon waking, and sip consistently before, during, and after your 60 mins workouts.",
+        "mealSuggestions": [
+          {
+            "meal": "Breakfast",
+            "items": "Steel-cut oatmeal topped with mixed berries, a scoop of protein or Greek yogurt, and a sprinkle of chia seeds",
+            "notes": "Provides sustained complex carbohydrates and fast-absorbing morning protein."
+          },
+          {
+            "meal": "Lunch",
+            "items": "Grilled chicken or marinated baked tofu bowl with quinoa, avocado slices, and mixed steamed vegetables",
+            "notes": "Balanced in healthy fats, amino acids, and micronutrients to prevent mid-day slumps."
+          },
+          {
+            "meal": "Dinner",
+            "items": "Pan-seared salmon or hearty lentil stew paired with roasted sweet potatoes and asparagus",
+            "notes": "Omega-3 fatty acids and zinc to support nighttime tissue repair and muscle recovery."
+          },
+          {
+            "meal": "Healthy Snack",
+            "items": "Handful of raw almonds with an apple, or carrot sticks with hummus",
+            "notes": "Quick, high-fiber, low-glycemic satiety booster between meals."
+          }
+        ]
+      },
+      "dailyActivities": [
+        "Reach an achievable daily target of 7,500 to 10,000 steps through casual walking",
+        "Take 5-minute movement or standing breaks every hour of sedentary desk work",
+        "Perform morning neck and spine mobility stretches for 5 minutes",
+        "Practice 5 minutes of mindful box breathing before bedtime to lower cortisol levels"
+      ],
+      "weeklySchedule": [
+        {
+          "day": "Monday",
+          "focus": "Full Body Strength & Core",
+          "activities": "Main resistance workout focusing on compound pushes and pulls",
+          "duration": "60 mins"
+        },
+        {
+          "day": "Tuesday",
+          "focus": "Low-Impact Cardio & Mobility",
+          "activities": "30-minute brisk outdoor walk, cycling, or yoga flow",
+          "duration": "30-40 mins"
+        },
+        {
+          "day": "Wednesday",
+          "focus": "Lower Body & Core Stability",
+          "activities": "Squat and hinge variations, lunges, and plank variations",
+          "duration": "60 mins"
+        },
+        {
+          "day": "Thursday",
+          "focus": "Active Recovery",
+          "activities": "Light leisure walk, gentle stretching, and foam rolling",
+          "duration": "20-30 mins"
+        },
+        {
+          "day": "Friday",
+          "focus": "Upper Body & Conditioning",
+          "activities": "Push-ups, rows, shoulder presses, and interval bursts",
+          "duration": "60 mins"
+        },
+        {
+          "day": "Saturday",
+          "focus": "Recreational Activity / Cardio",
+          "activities": "Hiking, swimming, playing a sport, or long nature walk",
+          "duration": "45-60 mins"
+        },
+        {
+          "day": "Sunday",
+          "focus": "Rest & Meal Prep Day",
+          "activities": "Complete physical rest, hydration check, and grocery prep for the week ahead",
+          "duration": "Rest"
+        }
+      ],
+      "fitnessTips": [
+        "Consistency outperforms intensity: Showing up 4 times every week is 10x more effective than one exhausting day.",
+        "Prioritize 7-8 hours of quality sleep; human growth hormone and muscle synthesis peak during deep sleep.",
+        "Track your weights and repetitions in a simple notebook to apply progressive overload safely.",
+        "Listen to your body: Persistent sharp pain is a warning signal to rest or modify the movement."
+      ],
+      "progressTracking": [
+        {
+          "metric": "Body Weight",
+          "method": "Weigh in once a week in the morning after waking and using the restroom",
+          "frequency": "Weekly"
+        },
+        {
+          "metric": "Progress Photos",
+          "method": "Take consistent front/side photos in identical lighting and posture",
+          "frequency": "Every 2-4 weeks"
+        },
+        {
+          "metric": "Workout Logbook",
+          "method": "Record weights lifted, reps completed, and perceived difficulty",
+          "frequency": "Every workout"
+        },
+        {
+          "metric": "Energy & Sleep Quality",
+          "method": "Rate your morning energy and overall mood on a scale of 1-10",
+          "frequency": "Daily"
+        }
+      ],
+      "disclaimer": "This AI-generated plan is for general fitness and educational purposes only. It is not medical advice. Consult a qualified healthcare professional before starting a new exercise or nutrition program, especially if you have a medical condition."
+    },
+    "created_at": "2026-09-26T09:58:06.395Z",
+    "is_demo": true
+  },
+  {
+    "id": "demo-priya-103",
+    "name": "Priya Sharma",
+    "age": 31,
+    "gender": "Female",
+    "height": 162,
+    "weight": 58,
+    "goal": "General Fitness",
+    "activity": "Low",
+    "workout_preference": "Yoga, Pilates & Daily Walking",
+    "dietary_preference": "Vegetarian Balanced",
+    "available_time": "30 mins",
+    "plan": {
+      "summary": "Hello Priya Sharma! Welcome to your FitBuddy personalized fitness roadmap. Designed specifically for a 31-year-old with a goal of General Fitness and a low current activity level, this program emphasizes sustainable progress, progressive overload, and wholesome nutrition tailored to 30 mins sessions focusing on Yoga, Pilates & Daily Walking.",
+      "targetBmi": {
+        "bmi": 22.1,
+        "category": "Normal weight",
+        "advice": "Maintain a balanced diet and regular physical activity."
+      },
+      "workoutPlan": {
+        "warmUp": [
+          "5 minutes of brisk walking, light jogging in place, or jumping jacks to raise heart rate",
+          "Dynamic arm circles, shoulder rolls, and torso twists (10-12 reps each direction)",
+          "Leg swings (front-to-back and side-to-side) and bodyweight air squats (10 reps)",
+          "Hip openers (cat-cow stretch and inchworms with a brief pause at plank)"
+        ],
+        "mainWorkout": [
+          {
+            "exercise": "Air Squats to Chair",
+            "sets": "3-4 sets",
+            "reps": "10-12 reps",
+            "notes": "Keep chest proud, core braced, and drive through mid-foot."
+          },
+          {
+            "exercise": "Push-Ups (standard or knee-supported)",
+            "sets": "3 sets",
+            "reps": "10-15 reps",
+            "notes": "Maintain a straight line from neck to heels, elbows at a 45-degree angle."
+          },
+          {
+            "exercise": "Dumbbell Rows or Inverted Table Rows",
+            "sets": "3 sets",
+            "reps": "10-12 reps per side",
+            "notes": "Squeeze shoulder blades at top of movement without shrugging."
+          },
+          {
+            "exercise": "Romanian Deadlifts (Dumbbell/Kettlebell)",
+            "sets": "3 sets",
+            "reps": "10 reps each leg",
+            "notes": "Control the eccentric (lowering) phase for maximum muscular activation."
+          },
+          {
+            "exercise": "Plank Hold & Deadbug alternating core routine",
+            "sets": "3 sets",
+            "reps": "30-45 seconds hold / 12 deadbugs",
+            "notes": "Press lower back firmly into the floor during deadbugs; keep core rigid during plank."
+          }
+        ],
+        "coolDown": [
+          "3-5 minutes of slow walking to safely lower resting heart rate",
+          "Standing quad stretch (hold 25-30 seconds each leg)",
+          "Hamstring forward fold stretch (hold 30 seconds with soft knees)",
+          "Chest doorway stretch and child pose deep belly breathing (1-2 minutes)"
+        ],
+        "recommendedFrequency": "3-4 days per week"
+      },
+      "nutritionGuidance": {
+        "overview": "A nutrition strategy aligned with Vegetarian Balanced, focusing on nutrient-dense whole foods, sufficient hydration, and appropriate caloric intake for general fitness.",
+        "proteinSources": [
+          "Lean poultry (chicken breast, turkey)",
+          "Eggs and egg whites",
+          "Greek yogurt or low-fat cottage cheese",
+          "Tofu, tempeh, lentils, chickpeas, and edamame (plant-based staples)",
+          "Wild-caught fish (salmon, tuna, cod) or clean whey/pea protein powder"
+        ],
+        "fruitsVegetables": [
+          "Dark leafy greens (spinach, kale, arugula)",
+          "Cruciferous vegetables (broccoli, cauliflower, Brussels sprouts)",
+          "Antioxidant-rich berries (blueberries, strawberries, raspberries)",
+          "Complex carbs: sweet potatoes, oats, quinoa, and brown rice",
+          "Apples, bananas, and citrus fruits for natural electrolytes"
+        ],
+        "hydrationTips": "Aim for 2.5 to 3.5 liters of clean water daily. Drink 500ml upon waking, and sip consistently before, during, and after your 30 mins workouts.",
+        "mealSuggestions": [
+          {
+            "meal": "Breakfast",
+            "items": "Steel-cut oatmeal topped with mixed berries, a scoop of protein or Greek yogurt, and a sprinkle of chia seeds",
+            "notes": "Provides sustained complex carbohydrates and fast-absorbing morning protein."
+          },
+          {
+            "meal": "Lunch",
+            "items": "Grilled chicken or marinated baked tofu bowl with quinoa, avocado slices, and mixed steamed vegetables",
+            "notes": "Balanced in healthy fats, amino acids, and micronutrients to prevent mid-day slumps."
+          },
+          {
+            "meal": "Dinner",
+            "items": "Pan-seared salmon or hearty lentil stew paired with roasted sweet potatoes and asparagus",
+            "notes": "Omega-3 fatty acids and zinc to support nighttime tissue repair and muscle recovery."
+          },
+          {
+            "meal": "Healthy Snack",
+            "items": "Handful of raw almonds with an apple, or carrot sticks with hummus",
+            "notes": "Quick, high-fiber, low-glycemic satiety booster between meals."
+          }
+        ]
+      },
+      "dailyActivities": [
+        "Reach an achievable daily target of 7,500 to 10,000 steps through casual walking",
+        "Take 5-minute movement or standing breaks every hour of sedentary desk work",
+        "Perform morning neck and spine mobility stretches for 5 minutes",
+        "Practice 5 minutes of mindful box breathing before bedtime to lower cortisol levels"
+      ],
+      "weeklySchedule": [
+        {
+          "day": "Monday",
+          "focus": "Full Body Strength & Core",
+          "activities": "Main resistance workout focusing on compound pushes and pulls",
+          "duration": "30 mins"
+        },
+        {
+          "day": "Tuesday",
+          "focus": "Low-Impact Cardio & Mobility",
+          "activities": "30-minute brisk outdoor walk, cycling, or yoga flow",
+          "duration": "30-40 mins"
+        },
+        {
+          "day": "Wednesday",
+          "focus": "Lower Body & Core Stability",
+          "activities": "Squat and hinge variations, lunges, and plank variations",
+          "duration": "30 mins"
+        },
+        {
+          "day": "Thursday",
+          "focus": "Active Recovery",
+          "activities": "Light leisure walk, gentle stretching, and foam rolling",
+          "duration": "20-30 mins"
+        },
+        {
+          "day": "Friday",
+          "focus": "Upper Body & Conditioning",
+          "activities": "Push-ups, rows, shoulder presses, and interval bursts",
+          "duration": "30 mins"
+        },
+        {
+          "day": "Saturday",
+          "focus": "Recreational Activity / Cardio",
+          "activities": "Hiking, swimming, playing a sport, or long nature walk",
+          "duration": "45-60 mins"
+        },
+        {
+          "day": "Sunday",
+          "focus": "Rest & Meal Prep Day",
+          "activities": "Complete physical rest, hydration check, and grocery prep for the week ahead",
+          "duration": "Rest"
+        }
+      ],
+      "fitnessTips": [
+        "Consistency outperforms intensity: Showing up 4 times every week is 10x more effective than one exhausting day.",
+        "Prioritize 7-8 hours of quality sleep; human growth hormone and muscle synthesis peak during deep sleep.",
+        "Track your weights and repetitions in a simple notebook to apply progressive overload safely.",
+        "Listen to your body: Persistent sharp pain is a warning signal to rest or modify the movement."
+      ],
+      "progressTracking": [
+        {
+          "metric": "Body Weight",
+          "method": "Weigh in once a week in the morning after waking and using the restroom",
+          "frequency": "Weekly"
+        },
+        {
+          "metric": "Progress Photos",
+          "method": "Take consistent front/side photos in identical lighting and posture",
+          "frequency": "Every 2-4 weeks"
+        },
+        {
+          "metric": "Workout Logbook",
+          "method": "Record weights lifted, reps completed, and perceived difficulty",
+          "frequency": "Every workout"
+        },
+        {
+          "metric": "Energy & Sleep Quality",
+          "method": "Rate your morning energy and overall mood on a scale of 1-10",
+          "frequency": "Daily"
+        }
+      ],
+      "disclaimer": "This AI-generated plan is for general fitness and educational purposes only. It is not medical advice. Consult a qualified healthcare professional before starting a new exercise or nutrition program, especially if you have a medical condition."
+    },
+    "created_at": "2026-09-25T09:58:06.395Z",
+    "is_demo": true
+  },
+  {
+    "id": "demo-david-104",
+    "name": "David Miller",
+    "age": 20,
+    "gender": "Male",
+    "height": 175,
+    "weight": 61,
+    "goal": "Weight Gain",
+    "activity": "Moderate",
+    "workout_preference": "Compound Strength & Hypertrophy",
+    "dietary_preference": "Caloric Surplus & Whole Foods",
+    "available_time": "50 mins",
+    "plan": {
+      "summary": "Hello David Miller! Welcome to your FitBuddy personalized fitness roadmap. Designed specifically for a 20-year-old with a goal of Weight Gain and a moderate current activity level, this program emphasizes sustainable progress, progressive overload, and wholesome nutrition tailored to 50 mins sessions focusing on Compound Strength & Hypertrophy.",
+      "targetBmi": {
+        "bmi": 19.9,
+        "category": "Normal weight",
+        "advice": "Maintain a balanced diet and regular physical activity."
+      },
+      "workoutPlan": {
+        "warmUp": [
+          "5 minutes of brisk walking, light jogging in place, or jumping jacks to raise heart rate",
+          "Dynamic arm circles, shoulder rolls, and torso twists (10-12 reps each direction)",
+          "Leg swings (front-to-back and side-to-side) and bodyweight air squats (10 reps)",
+          "Hip openers (cat-cow stretch and inchworms with a brief pause at plank)"
+        ],
+        "mainWorkout": [
+          {
+            "exercise": "Air Squats to Chair",
+            "sets": "3-4 sets",
+            "reps": "10-12 reps",
+            "notes": "Keep chest proud, core braced, and drive through mid-foot."
+          },
+          {
+            "exercise": "Push-Ups (standard or knee-supported)",
+            "sets": "3 sets",
+            "reps": "10-15 reps",
+            "notes": "Maintain a straight line from neck to heels, elbows at a 45-degree angle."
+          },
+          {
+            "exercise": "Dumbbell Rows or Inverted Table Rows",
+            "sets": "3 sets",
+            "reps": "10-12 reps per side",
+            "notes": "Squeeze shoulder blades at top of movement without shrugging."
+          },
+          {
+            "exercise": "Romanian Deadlifts (Dumbbell/Kettlebell)",
+            "sets": "3 sets",
+            "reps": "10 reps each leg",
+            "notes": "Control the eccentric (lowering) phase for maximum muscular activation."
+          },
+          {
+            "exercise": "Plank Hold & Deadbug alternating core routine",
+            "sets": "3 sets",
+            "reps": "30-45 seconds hold / 12 deadbugs",
+            "notes": "Press lower back firmly into the floor during deadbugs; keep core rigid during plank."
+          }
+        ],
+        "coolDown": [
+          "3-5 minutes of slow walking to safely lower resting heart rate",
+          "Standing quad stretch (hold 25-30 seconds each leg)",
+          "Hamstring forward fold stretch (hold 30 seconds with soft knees)",
+          "Chest doorway stretch and child pose deep belly breathing (1-2 minutes)"
+        ],
+        "recommendedFrequency": "3-4 days per week"
+      },
+      "nutritionGuidance": {
+        "overview": "A nutrition strategy aligned with Caloric Surplus & Whole Foods, focusing on nutrient-dense whole foods, sufficient hydration, and appropriate caloric intake for weight gain.",
+        "proteinSources": [
+          "Lean poultry (chicken breast, turkey)",
+          "Eggs and egg whites",
+          "Greek yogurt or low-fat cottage cheese",
+          "Tofu, tempeh, lentils, chickpeas, and edamame (plant-based staples)",
+          "Wild-caught fish (salmon, tuna, cod) or clean whey/pea protein powder"
+        ],
+        "fruitsVegetables": [
+          "Dark leafy greens (spinach, kale, arugula)",
+          "Cruciferous vegetables (broccoli, cauliflower, Brussels sprouts)",
+          "Antioxidant-rich berries (blueberries, strawberries, raspberries)",
+          "Complex carbs: sweet potatoes, oats, quinoa, and brown rice",
+          "Apples, bananas, and citrus fruits for natural electrolytes"
+        ],
+        "hydrationTips": "Aim for 2.5 to 3.5 liters of clean water daily. Drink 500ml upon waking, and sip consistently before, during, and after your 50 mins workouts.",
+        "mealSuggestions": [
+          {
+            "meal": "Breakfast",
+            "items": "Steel-cut oatmeal topped with mixed berries, a scoop of protein or Greek yogurt, and a sprinkle of chia seeds",
+            "notes": "Provides sustained complex carbohydrates and fast-absorbing morning protein."
+          },
+          {
+            "meal": "Lunch",
+            "items": "Grilled chicken or marinated baked tofu bowl with quinoa, avocado slices, and mixed steamed vegetables",
+            "notes": "Balanced in healthy fats, amino acids, and micronutrients to prevent mid-day slumps."
+          },
+          {
+            "meal": "Dinner",
+            "items": "Pan-seared salmon or hearty lentil stew paired with roasted sweet potatoes and asparagus",
+            "notes": "Omega-3 fatty acids and zinc to support nighttime tissue repair and muscle recovery."
+          },
+          {
+            "meal": "Healthy Snack",
+            "items": "Handful of raw almonds with an apple, or carrot sticks with hummus",
+            "notes": "Quick, high-fiber, low-glycemic satiety booster between meals."
+          }
+        ]
+      },
+      "dailyActivities": [
+        "Reach an achievable daily target of 7,500 to 10,000 steps through casual walking",
+        "Take 5-minute movement or standing breaks every hour of sedentary desk work",
+        "Perform morning neck and spine mobility stretches for 5 minutes",
+        "Practice 5 minutes of mindful box breathing before bedtime to lower cortisol levels"
+      ],
+      "weeklySchedule": [
+        {
+          "day": "Monday",
+          "focus": "Full Body Strength & Core",
+          "activities": "Main resistance workout focusing on compound pushes and pulls",
+          "duration": "50 mins"
+        },
+        {
+          "day": "Tuesday",
+          "focus": "Low-Impact Cardio & Mobility",
+          "activities": "30-minute brisk outdoor walk, cycling, or yoga flow",
+          "duration": "30-40 mins"
+        },
+        {
+          "day": "Wednesday",
+          "focus": "Lower Body & Core Stability",
+          "activities": "Squat and hinge variations, lunges, and plank variations",
+          "duration": "50 mins"
+        },
+        {
+          "day": "Thursday",
+          "focus": "Active Recovery",
+          "activities": "Light leisure walk, gentle stretching, and foam rolling",
+          "duration": "20-30 mins"
+        },
+        {
+          "day": "Friday",
+          "focus": "Upper Body & Conditioning",
+          "activities": "Push-ups, rows, shoulder presses, and interval bursts",
+          "duration": "50 mins"
+        },
+        {
+          "day": "Saturday",
+          "focus": "Recreational Activity / Cardio",
+          "activities": "Hiking, swimming, playing a sport, or long nature walk",
+          "duration": "45-60 mins"
+        },
+        {
+          "day": "Sunday",
+          "focus": "Rest & Meal Prep Day",
+          "activities": "Complete physical rest, hydration check, and grocery prep for the week ahead",
+          "duration": "Rest"
+        }
+      ],
+      "fitnessTips": [
+        "Consistency outperforms intensity: Showing up 4 times every week is 10x more effective than one exhausting day.",
+        "Prioritize 7-8 hours of quality sleep; human growth hormone and muscle synthesis peak during deep sleep.",
+        "Track your weights and repetitions in a simple notebook to apply progressive overload safely.",
+        "Listen to your body: Persistent sharp pain is a warning signal to rest or modify the movement."
+      ],
+      "progressTracking": [
+        {
+          "metric": "Body Weight",
+          "method": "Weigh in once a week in the morning after waking and using the restroom",
+          "frequency": "Weekly"
+        },
+        {
+          "metric": "Progress Photos",
+          "method": "Take consistent front/side photos in identical lighting and posture",
+          "frequency": "Every 2-4 weeks"
+        },
+        {
+          "metric": "Workout Logbook",
+          "method": "Record weights lifted, reps completed, and perceived difficulty",
+          "frequency": "Every workout"
+        },
+        {
+          "metric": "Energy & Sleep Quality",
+          "method": "Rate your morning energy and overall mood on a scale of 1-10",
+          "frequency": "Daily"
+        }
+      ],
+      "disclaimer": "This AI-generated plan is for general fitness and educational purposes only. It is not medical advice. Consult a qualified healthcare professional before starting a new exercise or nutrition program, especially if you have a medical condition."
+    },
+    "created_at": "2026-09-24T09:58:06.395Z",
+    "is_demo": true
+  }
+]

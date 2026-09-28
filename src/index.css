@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    color: #1e293b;
+    background-color: #f8fafc;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Outfit', 'Plus Jakarta Sans', system-ui, sans-serif;
+  }
+}
+
+/* Print-specific styling for the Fitness Plan */
+@media print {
+  body {
+    background-color: white !important;
+    color: black !important;
+  }
+
+  /* Hide navigation, action buttons, footer, and interactive elements */
+  nav, header, footer, .no-print, button, .action-buttons {
+    display: none !important;
+  }
+
+  /* Reset shadows and borders for clean paper printing */
+  .printable-plan {
+    box-shadow: none !important;
+    border: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+  }
+
+  .print-page-break {
+    page-break-before: always;
+  }
+}
